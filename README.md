@@ -3,8 +3,13 @@
 Recuerden ejecutar ```npm install``` para las librerías.
 
 Paquetes utilizados
-```npm init``` para incializar el proyecto.
+
+Instalar:
+
+```npm init``` 
+
 ```npm i --save yargs```
+
 ```npm install axios```
 
 
